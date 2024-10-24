@@ -1,0 +1,71 @@
+07/10/24
+
+DevOps Introduction 
+
+devops - Development(One who write the code) + Operations(maintain the s/w).
+dev team will take care of SDLC.
+ops team will take care of ITIL(information technology industrial library).
+--------------------
+
+10/10/24
+
+SDLC Models
+
+. Waterfall - sequential design process where each phase should be completed before next phase begins.
+. Agile - breaks down the project into small iterations or sprints.
+. DevOps - Benefits of devops
+		. speed
+		. reliability
+		. collaboration
+ 	 - the term devops is introduced by Patrick debois in 2009
+-------------------
+14/10/24
+
+SCM/VCS
+
+types of vcs
+
+
+
+. lvcs-local version control system 
+        versions sre stored in local machine.
+	no source code management.
+.cvcs- centralized
+	stored in centralized server repo
+	highly dependent on central server.
+.dvcs-distributed
+	git 
+		distributed
+		compatible
+		non-linear
+		branching
+		opensource
+		reliable
+		secure
+		economical
+-------------------
+
+16/10/24
+
+repositories
+
+. storage space where project data is stored
+types
+
+ remote/central-github/bitbucket/gitlab
+ local-git
+-------------------
+19/10/24
+
+3 sections
+
+1.Working tree - file just created, no other operations done on that file
+2.Staging area - git add filename will change file to this state
+3.Commited area - git commit -m 'message" will change file state to commited.
+
+
+3 states
+
+modifies
+staged
+commited
