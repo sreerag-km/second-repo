@@ -8,3 +8,4 @@ else
 echo "entered name is not $a"
 date
 df -h
+script xyz.txt abc.txt
